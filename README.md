@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">- 🖥️ I’m currently working as a software engineer <br>- 📚 I'm currently learning at University of Westminster<br>- ⚡ EAT.SLEEP.CODE</p>
+<p align="left">- 🖥️ Currently working as a software engineer <br>- 📚 Undergraduate at University of Westminster<br>- ⚡ EAT.SLEEP.CODE</p>
 
 ###
 
