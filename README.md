@@ -54,6 +54,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" width="52" alt="docker logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="52" alt="figma logo"  />
+  <img src="https://www.svgrepo.com/show/448679/vault.svg" height="40" width="52" alt="vault logo"  />
+  <img src="https://icons8.com/icon/wolE63GuuT9v/auth0-the-solution-you-need-for-web%2C-mobile%2C-iot%2C-and-internal-applications." height="40" width="52" alt="auth0 logo"  />
 </div>
 
 ###
