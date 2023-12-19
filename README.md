@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">- 🖥️ Currently working as a software engineer <br>- 📚 Undergraduate at University of Westminster<br>- ⚡ EAT.SLEEP.CODE</p>
+<p align="left">- Passionate about crafting robust backend solutions and optimizing performance for seamless user experiences. 🌐💻 Excels in designing and implementing scalable architectures for web applications. Proficient in a variety of technologies and frameworks, with a keen interest in backend development.<br>- ⚡ EAT.SLEEP.CODE</p>
 
 ###
 
