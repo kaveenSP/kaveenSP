@@ -60,7 +60,7 @@
   <img src="https://www.svgrepo.com/show/448266/aws.svg" height="40" width="52" alt="aws logo"  />
   <img src="https://www.svgrepo.com/show/353805/google-cloud.svg" height="40" width="52" alt="google cloud logo"  />
   <img src="https://cdn.worldvectorlogo.com/logos/sendgrid-1.svg" height="40" width="48" alt="sendgrid logo"  />
-  <img src="https://www.vectorlogo.zone/logos/tyk/tyk-ar21.svg" height="40" width="56" alt="tyk logo"  />
+  <img src="https://www.vectorlogo.zone/logos/tyk/tyk-ar21.svg" height="40" width="60" alt="tyk logo"  />
   <img src="https://www.svgrepo.com/show/475654/github-color.svg" height="40" width="52" alt="github logo"  />
   <img src="https://cdn.worldvectorlogo.com/logos/sonarcloud-1.svg" height="40" width="52" alt="sonarcloud logo"  />
   
