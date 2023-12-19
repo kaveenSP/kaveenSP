@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="center">Hey there, I'm  your friendly neighbour Kaveen 😜</h2>
+<h2 align="center">Hey there, I'm  your friendly engineer, Kaveen 😜</h2>
 
 ###
 
