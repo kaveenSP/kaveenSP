@@ -55,10 +55,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="52" alt="figma logo"  />
   <img src="https://www.svgrepo.com/show/448679/vault.svg" height="40" width="52" alt="vault logo"  />
-  <img src="https://www.vectorlogo.zone/logos/auth0/auth0-icon.svg" height="40" width="45" alt="auth0 logo"  />
-  <img src="https://www.svgrepo.com/show/353385/akamai.svg" height="40" width="52" alt="auth0 logo"  />
-  <img src="https://www.svgrepo.com/show/448266/aws.svg" height="40" width="52" alt="auth0 logo"  />
-  <img src="https://www.svgrepo.com/show/353805/google-cloud.svg" height="40" width="52" alt="auth0 logo"  />
+  <img src="https://www.vectorlogo.zone/logos/auth0/auth0-icon.svg" height="35" width="41" alt="auth0 logo"  />
+  <img src="https://www.svgrepo.com/show/353385/akamai.svg" height="40" width="52" alt="akamai logo"  />
+  <img src="https://www.svgrepo.com/show/448266/aws.svg" height="40" width="52" alt="aws logo"  />
+  <img src="https://www.svgrepo.com/show/353805/google-cloud.svg" height="40" width="52" alt="google cloud logo"  />
 </div>
 
 ###
