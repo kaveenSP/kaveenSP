@@ -59,6 +59,7 @@
   <img src="https://www.svgrepo.com/show/353385/akamai.svg" height="40" width="52" alt="akamai logo"  />
   <img src="https://www.svgrepo.com/show/448266/aws.svg" height="40" width="52" alt="aws logo"  />
   <img src="https://www.svgrepo.com/show/353805/google-cloud.svg" height="40" width="52" alt="google cloud logo"  />
+  <img src="https://cdn.worldvectorlogo.com/logos/sendgrid-1.svg" height="40" width="52" alt="sendgrid logo"  />
 </div>
 
 ###
